@@ -1,5 +1,5 @@
 # Clase 11 Actividad en Python
-<sub>
+
 Matias Garcia/Elitecoders
 
 ## Respuesta:
@@ -10,7 +10,8 @@ Nuevas funcionalidades: Acceso a mejoras y nuevas características.
 Corrección de errores: Resuelve problemas presentes en versiones anteriores.
 Seguridad: Incluye parches para vulnerabilidades.
 Rendimiento: Mejora la eficiencia de las operaciones.
-</sub>
+
+
 <sub>
 Hoy vamos a hacer actividad en Python en un día como programadores:
 </sub>
