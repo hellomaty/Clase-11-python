@@ -63,6 +63,7 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 <sub>
   
 Pip es el gestor de paquetes de Python, usado para instalar y gestionar bibliotecas y dependencias. Lo actualizamos porque:
+
 Compatibilidad: Asegura funcionamiento con nuevas versiones de Python.
 Nuevas funcionalidades: Acceso a mejoras y nuevas características.
 Corrección de errores: Resuelve problemas presentes en versiones anteriores.
