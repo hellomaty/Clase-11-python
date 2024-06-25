@@ -58,15 +58,16 @@ python3 -m pip install --upgrade pip #Actualizamos el pip
 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
 </sub>
 
-## Respuesta:
-<sub>
-11)
-Pip es el gestor de paquetes de Python, usado para instalar y gestionar bibliotecas y dependencias. Lo actualizamos porque:
+## Respuesta 11:
 
+<sub>
+  
+Pip es el gestor de paquetes de Python, usado para instalar y gestionar bibliotecas y dependencias. Lo actualizamos porque:
 Compatibilidad: Asegura funcionamiento con nuevas versiones de Python.
 Nuevas funcionalidades: Acceso a mejoras y nuevas características.
 Corrección de errores: Resuelve problemas presentes en versiones anteriores.
 Seguridad: Incluye parches para vulnerabilidades.
 Rendimiento: Mejora la eficiencia de las operaciones.
+
 </sub>
 
